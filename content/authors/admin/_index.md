@@ -9,12 +9,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -45,7 +39,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: Professor of Artificial Intelligence
+role: właściciel
 highlight_name: true
 title: Adam Szołtysik
 first_name: Alice
