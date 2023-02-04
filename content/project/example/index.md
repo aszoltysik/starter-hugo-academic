@@ -7,7 +7,7 @@ url_video: ""
 date: 2023-02-04T17:59:55.596Z
 external_link: ""
 url_slides: ""
-title: Example Project
+title: Rozwiązania IT
 tags:
   - Wirtualizacja
 links:
