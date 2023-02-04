@@ -2,7 +2,7 @@
 title: Podpis elektroniczny kwalifikowany
 subtitle: Jesteśmy Punktem Mobilnym Centrum Certyfikacji CENCERT
 date: 2023-02-04T21:08:10.968Z
-draft: true
+draft: false
 featured: false
 tags:
   - podpis
@@ -12,7 +12,7 @@ links:
   - url: https://www.cencert.pl/podpis-kwalifikowany-na-karcie/
     icon: Podpis elektroniczny kwalifikowany na karcie
 image:
-  filename: kpe-2.avif
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
