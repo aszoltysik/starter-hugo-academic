@@ -15,7 +15,7 @@ links:
     icon_pack: ai
 image:
   filename: karta-cosmo-7-275x176.jpg
-  focal_point: Smart
+  focal_point: RIGHT
   preview_only: false
 ---
 ### Kwalifikowany podpis elektroniczny to:
