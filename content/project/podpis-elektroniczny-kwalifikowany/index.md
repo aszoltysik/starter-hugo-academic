@@ -10,7 +10,7 @@ categories:
   - cencert
 links:
   - url: https://www.cencert.pl/podpis-kwalifikowany-na-karcie/
-    icon: ":arrow_upper_right:"
+    icon: arrow_upper_right
     name: Podpis elektroniczny kwalifikowany na karcie
     icon_pack: ai
 image:
