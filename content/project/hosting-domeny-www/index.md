@@ -7,7 +7,7 @@ featured: false
 image:
   filename: www.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   alt_text: Hosting, domeny, WWW
 ---
 Hosting, domeny, WWW
