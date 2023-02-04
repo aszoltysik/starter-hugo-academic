@@ -2,7 +2,7 @@
 title: Podpis elektroniczny kwalifikowany
 subtitle: Jesteśmy Punktem Mobilnym Centrum Certyfikacji CENCERT
 date: 2023-02-04T21:08:10.968Z
-draft: false
+draft: true
 featured: false
 tags:
   - podpis
