@@ -17,7 +17,7 @@ links:
     url: https://twitter.com/georgecushen
 image:
   caption: Witualizacja systemów i serwerów
-  focal_point: Smart
+  focal_point: Right
   filename: macierz.jpg
   preview_only: false
 url_code: ""
