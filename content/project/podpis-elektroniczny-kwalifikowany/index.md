@@ -16,7 +16,7 @@ links:
 image:
   filename: karta-cosmo-7-275x176.jpg
   focal_point: RIGHT
-  preview_only: false
+  preview_only: true
 ---
 ### Kwalifikowany podpis elektroniczny to:
 
