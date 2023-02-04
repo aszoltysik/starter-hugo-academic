@@ -5,7 +5,7 @@ summary: Hosting, domeny, WWW
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: www.jpg
   focal_point: Smart
   preview_only: false
   alt_text: Hosting, domeny, WWW
